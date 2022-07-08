@@ -1,0 +1,24 @@
+name,age,salary
+yur,18,1
+AAAaaa _!@#$1234ййййвввв?*()—+%ASDBkkkkk,120,1000000
+aa,18,1
+AAAaaa _!@#$1234ййййвввв?*()—+%ASDBkkkkks,18,1
+aaa ,18,1
+ aaa,18,1
+,18,1
+<script>alert("hi")</script>,18,1
+<b>hi</b>,18,1
+yur,17,1
+yur,121,1
+yur,,1
+yur,18.1,1
+yur,q @,1
+yur,true,1
+yur,0,1
+yur,-18,1
+yur,18,0
+yur,18,-1
+yur,18,1000001
+yur,18,q @
+yur,18,true
+yur,18,1.1
